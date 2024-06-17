@@ -29,7 +29,7 @@ This project implements a product classification system based on QR codes. Each 
 1. **QR Code Detection**:
    - The conveyor moves products under a camera.
    - The camera scans the QR code.
-   - The QR code is processed using a Visual Studio application.
+   - The QR code is processed using a lib in C# is Zxing
 
     ![QR Code Detection](images/qr_code_detection.png)
 
